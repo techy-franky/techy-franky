@@ -4,7 +4,6 @@
 ⚡ Passionate about real-world security testing.
 ## 🧠 Current Focus  
 - Web app vulnerabilities (XSS, SQLi, auth bypass)  
-- Recon & automation scripting  
 - Capture the Flag (HTB / THM)
 
 ## 🔗 Links  
