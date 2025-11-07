@@ -11,3 +11,6 @@
 - [Twitter (X)](#)  
 - [HackTheBox](#)  
 - [TryHackMe](#)
+
+-## 🌐 Let's Connect
+Open to collaboration, remote bug bounties, or pentesting projects.  
