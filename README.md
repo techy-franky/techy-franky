@@ -7,10 +7,10 @@
 - Capture the Flag (HTB / THM)
 
 ## 🔗 Links  
-- [LinkedIn](#)  
-- [Twitter (X)](#)  
+- [LinkedIn](https://www.linkedin.com/in/franklin-gerald-274a48397/?trk=public-profile-join-page)  
+- [Twitter (X)](https://x.com/libertypolo)  
 - [HackTheBox](#)  
-- [TryHackMe](#)
+- [TryHackMe](https://tryhackme.com/p/chukwumafranklin4)
 
 -## 🌐 Let's Connect
 Open to collaboration, remote bug bounties, or pentesting projects.  
